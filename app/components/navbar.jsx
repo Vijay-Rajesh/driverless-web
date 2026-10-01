@@ -210,12 +210,9 @@ export default function Navbar() {
         {/* Brand Logo */}
         <Link href="/" className="zoom-responsive flex items-center gap-2" aria-label="NCAI Autonomous home">
           <span className={`text-lg sm:text-xl font-black tracking-tight ${isTransparent ? "text-[#8a1d1d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]" : "text-[#8a1d1d]"}`}>
-            NED
+            KHUDCAR
           </span>
-          <span className={isTransparent ? "text-white/60" : "text-zinc-400"}>/</span>
-          <span className={`text-[10px] sm:text-xs font-bold tracking-widest uppercase ${isTransparent ? "text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]" : "text-zinc-600"}`}>
-            AUTONOMOUS TECHNOLOGY
-          </span>
+          
         </Link>
 
         {/* Desktop & Mobile Toggle Wrapper */}

@@ -134,63 +134,7 @@ export default function GalleryPage() {
       caption: 'Real-world trajectory evaluation on main campus roadways.',
       category: 'Autonomous Car Design',
       image: '/project_car_image6.jpg',
-    },
-    {
-      id: 16,
-      title: 'Object Detection & Lane Tracking',
-      caption: 'Real-time computer vision perception pipeline using YOLOv5m.',
-      category: 'Visual Data Processing',
-      image: '/visual data processing (object and lane detection) image1.PNG',
-    },
-    {
-      id: 17,
-      title: 'Obstacle Avoidance Logic',
-      caption: 'Dynamic ROI extraction and emergency braking thresholds.',
-      category: 'Visual Data Processing',
-      image: '/visual data processing (object detection_or_avoidance) image2.PNG',
-    },
-    {
-      id: 18,
-      title: 'CARLA Environment Simulation',
-      caption: 'Model Predictive Control (MPC) verification inside synthetic virtual environment.',
-      category: 'Simulation and Real-World Testing',
-      image: '/simulation_image1.PNG',
-    },
-    {
-      id: 19,
-      title: 'Trajectory Optimization',
-      caption: 'Lattice planner simulation showing smooth collision-free paths.',
-      category: 'Simulation and Real-World Testing',
-      image: '/simulation-image2.PNG',
-    },
-    {
-      id: 20,
-      title: 'CARLA Environment Simulation',
-      caption: 'Model Predictive Control (MPC) verification inside synthetic virtual environment.',
-      category: 'Simulation and Real-World Testing',
-      image: '/simulation-image3.PNG',
-    },
-    {
-      id: 21,
-      title: 'GPS, RTK GPS',
-      caption: 'GPS: High-precision systems like Reach Rover RS2 pinpoint location down to centimeter accuracy. RTK (Real-Time Kinematic) GPS: Enhances precision using base station corrections to eliminate satellite atmospheric distortion.',
-      category: 'Coordinate Tracking',
-      image: '/gps-image1.png',
-    },
-    {
-      id: 22,
-      title: '3D Point Cloud SLAM Map',
-      caption: 'High-definition 3D spatial mapping generated via RTK-GPS and LiDAR.',
-      category: 'Mapping and Data Collection',
-      image: '/mapping and data collection image1.PNG',
-    },
-    {
-      id: 23,
-      title: 'GNSS & RTK Coordinate Log',
-      caption: 'Centimeter-level precision position logs for autonomous route planning.',
-      category: 'Mapping and Data Collection',
-      image: '/mapping and data collection image2.PNG',
-    },
+    }
   ]
 
   // Top 3 Featured Cards for Overlapping Showcase

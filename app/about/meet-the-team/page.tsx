@@ -243,7 +243,7 @@ export default function WhoWeArePage() {
             >
               {[
                 { name: "Sumbal Zehra", image: "/Sumbal_Zehra1.jpeg" },
-                { name: "Abdul Moiz", image: "/Abdul_Muiz.jpeg" },
+                { name: "Abdul Muiz", image: "/Abdul_Muiz.jpeg" },
                 { name: "Muhammad Areeb", image: "/Areeb_Sohail1.jpeg" },
                 { name: "Muhammad Ubaid", image: "/Muhammad_Ubaid1.jpeg" },
                 { name: "Farhan Raza", image: "/Farhan_Raza1.jpeg" },

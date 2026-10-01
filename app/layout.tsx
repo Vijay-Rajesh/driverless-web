@@ -16,7 +16,7 @@ const bodyFont = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "NED Autonomous-Self Driving-Driverless Car",
+  title: "KHUDCAR",
   description: "NED Autonomous-Self Driving-Driverless Car official website",
 };
 
